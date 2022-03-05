@@ -1,0 +1,1 @@
+Ratto è stato creato
