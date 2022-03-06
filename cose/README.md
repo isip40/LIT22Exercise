@@ -1,6 +1,3 @@
-#GruppoLTI
-Mario	Abd El Masih S5037549	mario.abdelmasih01@gmail.com
--- ss     ------------ -----         ---------------
 # LIT22Exercise
 Esercizio per Lab Informatica e Telematica 2022
 <<<<<<< HEAD:README.md
