@@ -1,0 +1,7 @@
+Si consideri il sistema in figura. 
+
+Si completi il programma assembly fornito in modo che il dispositivo esegua la routine di interrupt ogni 1 ms. 
+
+Il programma ogni 100 ms deve acquisire un nuovo dato sul porto IA, solo se nel frattempo è avvenuto un fronte di salita sull'ingreso Acq. Ogni 8 dati acquisiti il programma deve riportare sull'uscita Out la media dei dati acquisiti. 
+
+	 
